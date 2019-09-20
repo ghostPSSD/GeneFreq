@@ -215,4 +215,4 @@ for x in pssd_file:
 results.close()
 
 # Close
-print('Analysis has completed. Thank you for using GeneFREQSNP 2.0 from the PSSDLab.
+print('Analysis has completed. Thank you for using GeneFREQSNP 2.0 from the PSSDLab.')
